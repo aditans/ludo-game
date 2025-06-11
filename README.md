@@ -105,8 +105,9 @@ Before running this project, make sure you have:
 
 ## 📸 Screenshots
 
-<!-- Add screenshots of your game here -->
-*Screenshots coming soon...*
+![Main UI](screenshots/Screenshot%202025-06-11%20222303.png)
+![Main UI](screenshots/Screenshot%202025-06-11%20222314.png)
+![Main UI](screenshots/Screenshot%202025-06-11%20222540.png)
 
 
 
